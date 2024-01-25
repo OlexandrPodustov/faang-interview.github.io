@@ -168,7 +168,6 @@
   - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-the-system-design-interview) в першу чергу вам порадять пройти курс [(Grokking the System Design Interview - Part 3 )](https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-3/581)
   - [Grokking the Object-Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
   - [System-design-primer](https://github.com/donnemartin/system-design-primer) Популярний збірник різного щодо SDI
-  - [System Design Interview Step By Step Guide](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos). YouTube channel 
   - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - книга кажуть "бомба" типу data intensive
   - [Building Microservices: Designing Fine-Grained Systems: Newman, Sam: 9781491950357](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) - дуже хороша книга про розробку мікросервісів, легко читається, багато хороших практик
   - [Distributed Systems: Principles and Paradigms: Tanenbaum, Andrew S., van Steen, Maarten: 9780130888938](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/0130888931) - хороша популярна книга з розподілених систем, не можу сказати, що читається легко, але варта уваги
